@@ -1,5 +1,7 @@
 # Rugged Enterprise DevSecNetQAGovOps
 
+A [video of this presentation is available on YouTube](https://youtu.be/H8M69Ljiito?t=11380).
+
 ## DevOps is Dead
 
 DevOps is dead.
